@@ -1,4 +1,4 @@
-# retrolongplay
+# longplays.org playlist creator
 A simple C# core app to generate a XSPF playlist against any particular category on longplays.org. Not a ton of error handling/etc.
 Usage:
 ```
